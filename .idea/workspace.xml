@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="563234cd-a9b1-4e18-ac20-5b42964cb9a5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n-with-Crowdin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CityApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repositories/CityRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/MessageBundle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/MessageBundle_en_US.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/MessageBundle_pl_PL.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/MessageBundle_uk_UA.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="XML Properties File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CpsC9nrAILDTV0VepvzBfbc9qO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/danya/Downloads/KoolJavaProjekt_IssueTracker&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Global Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="models" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\danya\Downloads\i18n-with-Crowdin\src\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\danya\Downloads\i18n-with-Crowdin" />
+      <recent name="C:\Users\danya\Downloads\i18n-with-Crowdin\src\resources" />
+      <recent name="C:\Users\danya\Downloads\i18n-with-Crowdin\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="563234cd-a9b1-4e18-ac20-5b42964cb9a5" name="Changes" comment="" />
+      <created>1659510733956</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659510733956</updated>
+      <workItem from="1659510735410" duration="3086000" />
+      <workItem from="1659776373144" duration="267000" />
+      <workItem from="1659776665015" duration="3750000" />
+      <workItem from="1659780470140" duration="1631000" />
+      <workItem from="1659880498354" duration="7739000" />
+      <workItem from="1659986160314" duration="672000" />
+      <workItem from="1660114973246" duration="6045000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
