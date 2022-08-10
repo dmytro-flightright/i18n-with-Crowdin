@@ -1,0 +1,3 @@
+files:
+  - source: /src/resources
+    translation: /src/resources/%language%
