@@ -1,6 +1,6 @@
-message.welcome = Welcome to City Visit Tracker!
-message.hello = Hello,
-message.enterYourName = Enter your name:
+message.welcome = Ласкаво просимо в City Visit Tracker!
+message.hello = Доброго дня,
+message.enterYourName = Введіть своє ім'я:
 message.addCity = Let's add a new city!
 message.addCityName = Enter the city name:
 message.addCityDate = Enter the city visited date
